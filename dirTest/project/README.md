@@ -1,27 +1,18 @@
+EVALUACIÓN 1
 
-In this directory, you should write the program `wcat.c` and compile it into
-the binary `wcat` (e.g., `gcc -o wcat wcat.c -Wall -Werror`).
+Se acaba de hacer un control de versiones en algunos archivos de la carpeta dirTest
 
-After doing so, you can run the tests from this directory by running the
-`test-wcat.sh` script. If all goes well, you will see:
+![Captura desde 2022-08-15 18-21-30](https://user-images.githubusercontent.com/77700657/184749046-87ab4f99-00b5-47d9-9dec-c920435f79f9.png)
 
-```sh
-prompt> ./test-wcat.sh
-test 1: passed
-test 2: passed
-test 3: passed
-test 4: passed
-test 5: passed
-test 6: passed
-test 7: passed
-prompt>
-```
 
-The `test-wcat.sh` script is just a wrapper for the `run-tests.sh` script in
-the `tester` directory of this repository. This program has a few options; see
-the relevant
-[README](https://github.com/remzi-arpacidusseau/ostep-projects/blob/master/tester/README.md)
-for details.
+https://www.youtube.com/watch?v=DYbEUokO2oI&ab_channel=LALITORAMS
 
+
+Lista de comandos:
+
+1.gh repo clone direción del repositorio
+2.git add wcat.c
+3.git commit -m "descripción del commit"
+4.git push
 
 
